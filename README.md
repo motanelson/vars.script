@@ -1,2 +1,1 @@
-# xyzt.vars
-xyz times vars
+decompiles a .rtfcx file
