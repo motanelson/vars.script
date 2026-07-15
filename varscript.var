@@ -1,0 +1,35 @@
+a=what is you entry ?
+print=$a .
+print
+input
+debug
+print=$input .
+print
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
